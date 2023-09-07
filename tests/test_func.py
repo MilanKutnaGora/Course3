@@ -76,3 +76,4 @@ def test_json_load():
     """
     result_list = json_load(DATA_FILE)
     assert len(result_list) == 6
+
